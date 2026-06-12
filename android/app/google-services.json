@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "600231388237",
+    "project_id": "thindi-f6ac8",
+    "storage_bucket": "thindi-f6ac8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600231388237:android:d39d5d15a3da8a361d6804",
+        "android_client_info": {
+          "package_name": "com.thindi.restaurant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf9ZDAVgdV_ehQBnSNdX7syrPaDsmR8Jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600231388237:android:31d95c0f1f4aa8071d6804",
+        "android_client_info": {
+          "package_name": "com.thindi.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf9ZDAVgdV_ehQBnSNdX7syrPaDsmR8Jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
